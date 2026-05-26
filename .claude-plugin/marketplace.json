@@ -1,0 +1,15 @@
+{
+  "name": "xvpn-plugins",
+  "owner": {
+    "name": "X-VPN",
+    "email": "support@xvpn.io",
+    "url": "https://xvpn.io"
+  },
+  "plugins": [
+    {
+      "name": "xvpn",
+      "source": ".",
+      "description": "Route through region-specific egress to unblock geo-restricted tasks."
+    }
+  ]
+}

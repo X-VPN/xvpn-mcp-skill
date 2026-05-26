@@ -1,0 +1,15 @@
+{
+  "name": "xvpn",
+  "version": "1.0.0",
+  "description": "Route through region-specific egress to unblock geo-restricted tasks. Bundles the X-VPN skill and registers the local X-VPN MCP server.",
+  "author": {
+    "name": "X-VPN",
+    "email": "support@xvpn.io",
+    "url": "https://xvpn.io"
+  },
+  "homepage": "https://xvpn.io",
+  "repository": "https://github.com/X-VPN/xvpn-mcp-skill",
+  "license": "MIT",
+  "keywords": ["vpn", "free vpn", "geolocation", "region", "proxy", "mcp", "x-vpn", "egress"],
+  "skills": "./skills/"
+}
