@@ -8,8 +8,21 @@
   "plugins": [
     {
       "name": "xvpn",
-      "source": ".",
-      "description": "Route through region-specific egress to unblock geo-restricted tasks."
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/xvpn-mcp-skill"
+      ],
+      "description": "Route through region-specific egress to unblock geo-restricted tasks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "X-VPN Team",
+        "email": "support@xvpn.io"
+      },
+      "homepage": "https://github.com/X-VPN/xvpn-mcp-skill",
+      "repository": "https://github.com/X-VPN/xvpn-mcp-skill",
+      "license": "MIT",
+      "keywords": ["vpn", "free vpn", "geolocation", "region", "proxy", "mcp", "x-vpn", "egress"]
     }
   ]
 }

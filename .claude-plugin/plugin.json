@@ -10,6 +10,5 @@
   "homepage": "https://xvpn.io",
   "repository": "https://github.com/X-VPN/xvpn-mcp-skill",
   "license": "MIT",
-  "keywords": ["vpn", "free vpn", "geolocation", "region", "proxy", "mcp", "x-vpn", "egress"],
-  "skills": "./skills/"
+  "keywords": ["vpn", "free vpn", "geolocation", "region", "proxy", "mcp", "x-vpn", "egress"]
 }
